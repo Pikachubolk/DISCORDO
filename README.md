@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://avairebot.com/assets/img/banner-simple.png">
+    <img src="https://camo.githubusercontent.com/aad0a69b80a5ff5ea16460b121f7cbddd29f992d05cabdac5f56ac34cea85a0b/68747470733a2f2f63646e2e617661697265626f742e636f6d2f696d6167652f73696d706c652d62616e6e65722e706e67">
 </p>
 
 ## About AvaIre
